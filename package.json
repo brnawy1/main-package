@@ -1,0 +1,19 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "an empty package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim Adam",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brnawy1/main-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brnawy1/main-package/issues"
+  },
+  "homepage": "https://github.com/brnawy1/main-package#readme"
+}
